@@ -21,7 +21,7 @@ python3 task_manager_advanced.py list --sort status
   --priority Low \
   --due 2025-01-15 \
   --desc "Updated description"
-## python3 task_manager_advanced.py search "project"
-## python3 task_manager_advanced.py delete 5
-## python3 task_manager_advanced.py export tasks.csv
+ python3 task_manager_advanced.py search "project"
+ python3 task_manager_advanced.py delete 5
+ python3 task_manager_advanced.py export tasks.csv
 
